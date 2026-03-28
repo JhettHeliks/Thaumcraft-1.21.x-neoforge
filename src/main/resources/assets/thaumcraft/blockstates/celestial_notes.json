@@ -1,0 +1,24 @@
+{
+    "variants":  {
+                     "":  {
+                              "IsReadOnly":  false,
+                              "IsFixedSize":  false,
+                              "IsSynchronized":  false,
+                              "Keys":  [
+
+                                       ],
+                              "Values":  [
+
+                                         ],
+                              "SyncRoot":  {
+
+                                           },
+                              "Count":  0,
+                              "model":  "forge:block/item-layer",
+                              "textures":  {
+                                               "layer0":  "thaumcraft:items/celestial/sheet",
+                                               "layer1":  "thaumcraft:items/celestial/moon8"
+                                           }
+                          }
+                 }
+}

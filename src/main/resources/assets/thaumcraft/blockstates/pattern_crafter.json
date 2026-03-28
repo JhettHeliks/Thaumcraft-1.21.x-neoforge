@@ -1,0 +1,138 @@
+{
+    "variants":  {
+                     "enabled=false,facing=east":  {
+                                                       "IsReadOnly":  false,
+                                                       "IsFixedSize":  false,
+                                                       "IsSynchronized":  false,
+                                                       "Keys":  [
+
+                                                                ],
+                                                       "Values":  [
+
+                                                                  ],
+                                                       "SyncRoot":  {
+
+                                                                    },
+                                                       "Count":  0,
+                                                       "model":  "thaumcraft:block/pattern_crafter",
+                                                       "y":  90
+                                                   },
+                     "enabled=false,facing=west":  {
+                                                       "IsReadOnly":  false,
+                                                       "IsFixedSize":  false,
+                                                       "IsSynchronized":  false,
+                                                       "Keys":  [
+
+                                                                ],
+                                                       "Values":  [
+
+                                                                  ],
+                                                       "SyncRoot":  {
+
+                                                                    },
+                                                       "Count":  0,
+                                                       "model":  "thaumcraft:block/pattern_crafter",
+                                                       "y":  270
+                                                   },
+                     "enabled=false,facing=north":  {
+                                                        "IsReadOnly":  false,
+                                                        "IsFixedSize":  false,
+                                                        "IsSynchronized":  false,
+                                                        "Keys":  [
+
+                                                                 ],
+                                                        "Values":  [
+
+                                                                   ],
+                                                        "SyncRoot":  {
+
+                                                                     },
+                                                        "Count":  0,
+                                                        "model":  "thaumcraft:block/pattern_crafter"
+                                                    },
+                     "enabled=false,facing=south":  {
+                                                        "IsReadOnly":  false,
+                                                        "IsFixedSize":  false,
+                                                        "IsSynchronized":  false,
+                                                        "Keys":  [
+
+                                                                 ],
+                                                        "Values":  [
+
+                                                                   ],
+                                                        "SyncRoot":  {
+
+                                                                     },
+                                                        "Count":  0,
+                                                        "model":  "thaumcraft:block/pattern_crafter",
+                                                        "y":  180
+                                                    },
+                     "enabled=true,facing=east":  {
+                                                      "IsReadOnly":  false,
+                                                      "IsFixedSize":  false,
+                                                      "IsSynchronized":  false,
+                                                      "Keys":  [
+
+                                                               ],
+                                                      "Values":  [
+
+                                                                 ],
+                                                      "SyncRoot":  {
+
+                                                                   },
+                                                      "Count":  0,
+                                                      "model":  "thaumcraft:block/pattern_crafter",
+                                                      "y":  90
+                                                  },
+                     "enabled=true,facing=west":  {
+                                                      "IsReadOnly":  false,
+                                                      "IsFixedSize":  false,
+                                                      "IsSynchronized":  false,
+                                                      "Keys":  [
+
+                                                               ],
+                                                      "Values":  [
+
+                                                                 ],
+                                                      "SyncRoot":  {
+
+                                                                   },
+                                                      "Count":  0,
+                                                      "model":  "thaumcraft:block/pattern_crafter",
+                                                      "y":  270
+                                                  },
+                     "enabled=true,facing=north":  {
+                                                       "IsReadOnly":  false,
+                                                       "IsFixedSize":  false,
+                                                       "IsSynchronized":  false,
+                                                       "Keys":  [
+
+                                                                ],
+                                                       "Values":  [
+
+                                                                  ],
+                                                       "SyncRoot":  {
+
+                                                                    },
+                                                       "Count":  0,
+                                                       "model":  "thaumcraft:block/pattern_crafter"
+                                                   },
+                     "enabled=true,facing=south":  {
+                                                       "IsReadOnly":  false,
+                                                       "IsFixedSize":  false,
+                                                       "IsSynchronized":  false,
+                                                       "Keys":  [
+
+                                                                ],
+                                                       "Values":  [
+
+                                                                  ],
+                                                       "SyncRoot":  {
+
+                                                                    },
+                                                       "Count":  0,
+                                                       "model":  "thaumcraft:block/pattern_crafter",
+                                                       "y":  180
+                                                   }
+                 }
+}

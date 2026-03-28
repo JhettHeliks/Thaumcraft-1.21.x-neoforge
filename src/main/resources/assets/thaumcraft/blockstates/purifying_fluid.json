@@ -1,0 +1,10 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "forge:block/fluid",
+                              "custom":  {
+                                             "fluid":  "purifying_fluid"
+                                         }
+                          }
+                 }
+}

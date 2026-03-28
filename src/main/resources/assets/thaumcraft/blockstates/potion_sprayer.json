@@ -1,0 +1,124 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "minecraft:block/cube_bottom_top",
+                              "textures":  {
+                                               "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                               "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                               "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                           }
+                          },
+                     "enabled=false,facing=down":  {
+                                                       "model":  "minecraft:block/cube_bottom_top",
+                                                       "textures":  {
+                                                                        "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                        "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                        "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                    },
+                                                       "x":  180
+                                                   },
+                     "enabled=false,facing=up":  {
+                                                     "model":  "minecraft:block/cube_bottom_top",
+                                                     "textures":  {
+                                                                      "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                      "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                      "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                  }
+                                                 },
+                     "enabled=false,facing=east":  {
+                                                       "model":  "minecraft:block/cube_bottom_top",
+                                                       "textures":  {
+                                                                        "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                        "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                        "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                    },
+                                                       "y":  90,
+                                                       "x":  90
+                                                   },
+                     "enabled=false,facing=west":  {
+                                                       "model":  "minecraft:block/cube_bottom_top",
+                                                       "textures":  {
+                                                                        "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                        "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                        "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                    },
+                                                       "y":  270,
+                                                       "x":  90
+                                                   },
+                     "enabled=false,facing=north":  {
+                                                        "model":  "minecraft:block/cube_bottom_top",
+                                                        "textures":  {
+                                                                         "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                         "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                         "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                     },
+                                                        "x":  90
+                                                    },
+                     "enabled=false,facing=south":  {
+                                                        "model":  "minecraft:block/cube_bottom_top",
+                                                        "textures":  {
+                                                                         "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                         "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                         "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                     },
+                                                        "y":  180,
+                                                        "x":  90
+                                                    },
+                     "enabled=true,facing=down":  {
+                                                      "model":  "minecraft:block/cube_bottom_top",
+                                                      "textures":  {
+                                                                       "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                       "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                       "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                   },
+                                                      "x":  180
+                                                  },
+                     "enabled=true,facing=up":  {
+                                                    "model":  "minecraft:block/cube_bottom_top",
+                                                    "textures":  {
+                                                                     "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                     "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                     "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                 }
+                                                },
+                     "enabled=true,facing=east":  {
+                                                      "model":  "minecraft:block/cube_bottom_top",
+                                                      "textures":  {
+                                                                       "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                       "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                       "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                   },
+                                                      "y":  90,
+                                                      "x":  90
+                                                  },
+                     "enabled=true,facing=west":  {
+                                                      "model":  "minecraft:block/cube_bottom_top",
+                                                      "textures":  {
+                                                                       "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                       "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                       "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                   },
+                                                      "y":  270,
+                                                      "x":  90
+                                                  },
+                     "enabled=true,facing=north":  {
+                                                       "model":  "minecraft:block/cube_bottom_top",
+                                                       "textures":  {
+                                                                        "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                        "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                        "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                    },
+                                                       "x":  90
+                                                   },
+                     "enabled=true,facing=south":  {
+                                                       "model":  "minecraft:block/cube_bottom_top",
+                                                       "textures":  {
+                                                                        "bottom":  "thaumcraft:blocks/potion_sprayer_bottom",
+                                                                        "top":  "thaumcraft:blocks/potion_sprayer_top",
+                                                                        "side":  "thaumcraft:blocks/potion_sprayer_side"
+                                                                    },
+                                                       "y":  180,
+                                                       "x":  90
+                                                   }
+                 }
+}

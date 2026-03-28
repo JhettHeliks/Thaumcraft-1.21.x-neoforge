@@ -1,0 +1,11 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "thaumcraft:block/empty",
+                              "textures":  {
+                                               "particle":  "thaumcraft:blocks/nitor",
+                                               "all":  "thaumcraft:blocks/nitor"
+                                           }
+                          }
+                 }
+}

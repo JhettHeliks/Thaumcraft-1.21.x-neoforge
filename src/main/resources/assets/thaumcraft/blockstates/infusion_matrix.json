@@ -1,0 +1,11 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "thaumcraft:block/infusion_matrix",
+                              "textures":  {
+                                               "particle":  "thaumcraft:blocks/infuser_normal",
+                                               "side":  "thaumcraft:blocks/infuser_normal"
+                                           }
+                          }
+                 }
+}

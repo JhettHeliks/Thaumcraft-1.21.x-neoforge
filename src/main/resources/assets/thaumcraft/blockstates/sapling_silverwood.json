@@ -1,0 +1,16 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "minecraft:block/cross",
+                              "textures":  {
+                                               "cross":  "thaumcraft:blocks/sapling_silverwood"
+                                           },
+                              "0":  {
+
+                                    },
+                              "1":  {
+
+                                    }
+                          }
+                 }
+}

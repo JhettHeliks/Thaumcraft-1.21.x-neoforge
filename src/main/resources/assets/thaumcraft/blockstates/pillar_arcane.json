@@ -1,0 +1,83 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "IsReadOnly":  false,
+                                          "IsFixedSize":  false,
+                                          "IsSynchronized":  false,
+                                          "Keys":  [
+
+                                                   ],
+                                          "Values":  [
+
+                                                     ],
+                                          "SyncRoot":  {
+
+                                                       },
+                                          "Count":  0,
+                                          "model":  "thaumcraft:block/pillar.obj",
+                                          "textures":  {
+                                                           "#texture":  "thaumcraft:blocks/pillar_normal"
+                                                       }
+                                      },
+                     "facing=south":  {
+                                          "IsReadOnly":  false,
+                                          "IsFixedSize":  false,
+                                          "IsSynchronized":  false,
+                                          "Keys":  [
+
+                                                   ],
+                                          "Values":  [
+
+                                                     ],
+                                          "SyncRoot":  {
+
+                                                       },
+                                          "Count":  0,
+                                          "model":  "thaumcraft:block/pillar.obj",
+                                          "y":  180,
+                                          "textures":  {
+                                                           "#texture":  "thaumcraft:blocks/pillar_normal"
+                                                       }
+                                      },
+                     "facing=east":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "thaumcraft:block/pillar.obj",
+                                         "y":  90,
+                                         "textures":  {
+                                                          "#texture":  "thaumcraft:blocks/pillar_normal"
+                                                      }
+                                     },
+                     "facing=west":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "thaumcraft:block/pillar.obj",
+                                         "y":  270,
+                                         "textures":  {
+                                                          "#texture":  "thaumcraft:blocks/pillar_normal"
+                                                      }
+                                     }
+                 }
+}

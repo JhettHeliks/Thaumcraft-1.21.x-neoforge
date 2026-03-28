@@ -1,0 +1,94 @@
+{
+    "variants":  {
+                     "":  [
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_0"
+                                               },
+                                  "weight":  8
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_0"
+                                               },
+                                  "weight":  8,
+                                  "x":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_0"
+                                               },
+                                  "weight":  8,
+                                  "y":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_0"
+                                               },
+                                  "weight":  8,
+                                  "x":  90,
+                                  "y":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_1"
+                                               }
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_1"
+                                               },
+                                  "x":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_1"
+                                               },
+                                  "y":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_1"
+                                               },
+                                  "x":  90,
+                                  "y":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_2"
+                                               }
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_2"
+                                               },
+                                  "x":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_2"
+                                               },
+                                  "y":  90
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/taint_crust_2"
+                                               },
+                                  "x":  90,
+                                  "y":  90
+                              }
+                          ]
+                 }
+}

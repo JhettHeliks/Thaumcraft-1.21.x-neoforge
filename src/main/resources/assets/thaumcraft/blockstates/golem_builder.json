@@ -1,0 +1,46 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "thaumcraft:block/golembuilder.obj",
+                              "textures":  {
+                                               "#texture":  "thaumcraft:blocks/golembuilder"
+                                           }
+                          },
+                     "facing=up":  {
+                                       "model":  "minecraft:block/cube_all",
+                                       "textures":  {
+                                                        "all":  "thaumcraft:blocks/base_stone"
+                                                    }
+                                   },
+                     "facing=down":  {
+                                         "model":  "minecraft:block/cube_all",
+                                         "textures":  {
+                                                          "all":  "thaumcraft:blocks/base_stone"
+                                                      }
+                                     },
+                     "facing=west":  {
+                                         "model":  "minecraft:block/cube_all",
+                                         "textures":  {
+                                                          "all":  "thaumcraft:blocks/base_stone"
+                                                      }
+                                     },
+                     "facing=south":  {
+                                          "model":  "minecraft:block/cube_all",
+                                          "textures":  {
+                                                           "all":  "thaumcraft:blocks/base_stone"
+                                                       }
+                                      },
+                     "facing=north":  {
+                                          "model":  "minecraft:block/cube_all",
+                                          "textures":  {
+                                                           "all":  "thaumcraft:blocks/base_stone"
+                                                       }
+                                      },
+                     "facing=east":  {
+                                         "model":  "minecraft:block/cube_all",
+                                         "textures":  {
+                                                          "all":  "thaumcraft:blocks/base_stone"
+                                                      }
+                                     }
+                 }
+}

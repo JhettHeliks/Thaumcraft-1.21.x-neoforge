@@ -1,0 +1,10 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "minecraft:block/cross",
+                              "textures":  {
+                                               "cross":  "thaumcraft:blocks/vishroom"
+                                           }
+                          }
+                 }
+}

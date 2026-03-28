@@ -1,0 +1,24 @@
+{
+    "variants":  {
+                     "":  [
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/ancient_rock_stone_1"
+                                               }
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/ancient_rock_stone_2"
+                                               }
+                              },
+                              {
+                                  "model":  "minecraft:block/cube_all",
+                                  "textures":  {
+                                                   "all":  "thaumcraft:blocks/ancient_rock_stone_3"
+                                               }
+                              }
+                          ]
+                 }
+}

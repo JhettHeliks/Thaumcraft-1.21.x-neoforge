@@ -1,0 +1,20 @@
+{
+    "variants":  {
+                     "":  {
+                              "IsReadOnly":  false,
+                              "IsFixedSize":  false,
+                              "IsSynchronized":  false,
+                              "Keys":  [
+
+                                       ],
+                              "Values":  [
+
+                                         ],
+                              "SyncRoot":  {
+
+                                           },
+                              "Count":  0,
+                              "model":  "thaumcraft:block/banner"
+                          }
+                 }
+}

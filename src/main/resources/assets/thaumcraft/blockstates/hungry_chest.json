@@ -1,0 +1,46 @@
+{
+    "variants":  {
+                     "facing=up":  {
+                                       "model":  "thaumcraft:block/chest",
+                                       "textures":  {
+                                                        "particle":  "thaumcraft:models/chesthungry",
+                                                        "texture":  "thaumcraft:models/chesthungry"
+                                                    }
+                                   },
+                     "facing=down":  {
+                                         "model":  "thaumcraft:block/chest",
+                                         "textures":  {
+                                                          "particle":  "thaumcraft:models/chesthungry",
+                                                          "texture":  "thaumcraft:models/chesthungry"
+                                                      }
+                                     },
+                     "facing=west":  {
+                                         "model":  "thaumcraft:block/chest",
+                                         "textures":  {
+                                                          "particle":  "thaumcraft:models/chesthungry",
+                                                          "texture":  "thaumcraft:models/chesthungry"
+                                                      }
+                                     },
+                     "facing=south":  {
+                                          "model":  "thaumcraft:block/chest",
+                                          "textures":  {
+                                                           "particle":  "thaumcraft:models/chesthungry",
+                                                           "texture":  "thaumcraft:models/chesthungry"
+                                                       }
+                                      },
+                     "facing=north":  {
+                                          "model":  "thaumcraft:block/chest",
+                                          "textures":  {
+                                                           "particle":  "thaumcraft:models/chesthungry",
+                                                           "texture":  "thaumcraft:models/chesthungry"
+                                                       }
+                                      },
+                     "facing=east":  {
+                                         "model":  "thaumcraft:block/chest",
+                                         "textures":  {
+                                                          "particle":  "thaumcraft:models/chesthungry",
+                                                          "texture":  "thaumcraft:models/chesthungry"
+                                                      }
+                                     }
+                 }
+}

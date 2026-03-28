@@ -1,0 +1,21 @@
+{
+    "variants":  {
+                     "":  {
+                              "textures":  {
+                                               "particle":  "thaumcraft:blocks/lamp_fert_off",
+                                               "side":  "thaumcraft:blocks/lamp_fert_off"
+                                           },
+                              "model":  "thaumcraft:block/lamp",
+                              "true":  {
+                                           "textures":  {
+                                                            "side":  "thaumcraft:blocks/lamp_fert_on"
+                                                        }
+                                       },
+                              "false":  {
+                                            "textures":  {
+                                                             "side":  "thaumcraft:blocks/lamp_fert_off"
+                                                         }
+                                        }
+                          }
+                 }
+}

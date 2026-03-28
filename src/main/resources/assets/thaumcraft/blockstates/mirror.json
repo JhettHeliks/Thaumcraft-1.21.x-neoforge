@@ -1,0 +1,118 @@
+{
+    "variants":  {
+                     "facing=down":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "minecraft:block/cube_all",
+                                         "textures":  {
+                                                          "all":  "thaumcraft:blocks/mirrorframe"
+                                                      }
+                                     },
+                     "facing=up":  {
+                                       "IsReadOnly":  false,
+                                       "IsFixedSize":  false,
+                                       "IsSynchronized":  false,
+                                       "Keys":  [
+
+                                                ],
+                                       "Values":  [
+
+                                                  ],
+                                       "SyncRoot":  {
+
+                                                    },
+                                       "Count":  0,
+                                       "model":  "minecraft:block/cube_all",
+                                       "textures":  {
+                                                        "all":  "thaumcraft:blocks/mirrorframe"
+                                                    }
+                                   },
+                     "facing=east":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "minecraft:block/cube_all",
+                                         "textures":  {
+                                                          "all":  "thaumcraft:blocks/mirrorframe"
+                                                      }
+                                     },
+                     "facing=west":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "minecraft:block/cube_all",
+                                         "textures":  {
+                                                          "all":  "thaumcraft:blocks/mirrorframe"
+                                                      }
+                                     },
+                     "facing=north":  {
+                                          "IsReadOnly":  false,
+                                          "IsFixedSize":  false,
+                                          "IsSynchronized":  false,
+                                          "Keys":  [
+
+                                                   ],
+                                          "Values":  [
+
+                                                     ],
+                                          "SyncRoot":  {
+
+                                                       },
+                                          "Count":  0,
+                                          "model":  "minecraft:block/cube_all",
+                                          "textures":  {
+                                                           "all":  "thaumcraft:blocks/mirrorframe"
+                                                       }
+                                      },
+                     "facing=south":  {
+                                          "IsReadOnly":  false,
+                                          "IsFixedSize":  false,
+                                          "IsSynchronized":  false,
+                                          "Keys":  [
+
+                                                   ],
+                                          "Values":  [
+
+                                                     ],
+                                          "SyncRoot":  {
+
+                                                       },
+                                          "Count":  0,
+                                          "model":  "minecraft:block/cube_all",
+                                          "textures":  {
+                                                           "all":  "thaumcraft:blocks/mirrorframe"
+                                                       }
+                                      }
+                 }
+}

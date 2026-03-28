@@ -1,0 +1,27 @@
+{
+    "variants":  {
+                     "":  {
+                              "IsReadOnly":  false,
+                              "IsFixedSize":  false,
+                              "IsSynchronized":  false,
+                              "Keys":  [
+
+                                       ],
+                              "Values":  [
+
+                                         ],
+                              "SyncRoot":  {
+
+                                           },
+                              "Count":  0,
+                              "default":  {
+                                              "textures":  {
+                                                               "particle":  "thaumcraft:blocks/plank_silverwood",
+                                                               "bottom":  "thaumcraft:blocks/plank_silverwood",
+                                                               "top":  "thaumcraft:blocks/plank_silverwood",
+                                                               "side":  "thaumcraft:blocks/plank_silverwood"
+                                                           }
+                                          }
+                          }
+                 }
+}

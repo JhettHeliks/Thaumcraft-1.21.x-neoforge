@@ -1,0 +1,108 @@
+{
+    "variants":  {
+                     "facing=down":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "thaumcraft:block/essentia_output",
+                                         "x":  180
+                                     },
+                     "facing=up":  {
+                                       "IsReadOnly":  false,
+                                       "IsFixedSize":  false,
+                                       "IsSynchronized":  false,
+                                       "Keys":  [
+
+                                                ],
+                                       "Values":  [
+
+                                                  ],
+                                       "SyncRoot":  {
+
+                                                    },
+                                       "Count":  0,
+                                       "model":  "thaumcraft:block/essentia_output"
+                                   },
+                     "facing=east":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "thaumcraft:block/essentia_output",
+                                         "y":  90,
+                                         "x":  90
+                                     },
+                     "facing=west":  {
+                                         "IsReadOnly":  false,
+                                         "IsFixedSize":  false,
+                                         "IsSynchronized":  false,
+                                         "Keys":  [
+
+                                                  ],
+                                         "Values":  [
+
+                                                    ],
+                                         "SyncRoot":  {
+
+                                                      },
+                                         "Count":  0,
+                                         "model":  "thaumcraft:block/essentia_output",
+                                         "y":  270,
+                                         "x":  90
+                                     },
+                     "facing=north":  {
+                                          "IsReadOnly":  false,
+                                          "IsFixedSize":  false,
+                                          "IsSynchronized":  false,
+                                          "Keys":  [
+
+                                                   ],
+                                          "Values":  [
+
+                                                     ],
+                                          "SyncRoot":  {
+
+                                                       },
+                                          "Count":  0,
+                                          "model":  "thaumcraft:block/essentia_output",
+                                          "x":  90
+                                      },
+                     "facing=south":  {
+                                          "IsReadOnly":  false,
+                                          "IsFixedSize":  false,
+                                          "IsSynchronized":  false,
+                                          "Keys":  [
+
+                                                   ],
+                                          "Values":  [
+
+                                                     ],
+                                          "SyncRoot":  {
+
+                                                       },
+                                          "Count":  0,
+                                          "model":  "thaumcraft:block/essentia_output",
+                                          "y":  180,
+                                          "x":  90
+                                      }
+                 }
+}

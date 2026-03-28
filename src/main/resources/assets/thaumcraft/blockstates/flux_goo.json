@@ -1,0 +1,10 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "forge:block/fluid",
+                              "custom":  {
+                                             "fluid":  "flux_goo"
+                                         }
+                          }
+                 }
+}
