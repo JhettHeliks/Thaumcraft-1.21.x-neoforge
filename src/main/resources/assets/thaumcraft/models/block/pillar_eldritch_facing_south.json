@@ -1,0 +1,6 @@
+{
+    "parent": "thaumcraft:block/pillar.obj",
+    "textures": {
+        "#texture": "thaumcraft:block/pillar_eldritch"
+    }
+}

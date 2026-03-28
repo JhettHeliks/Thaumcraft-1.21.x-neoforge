@@ -1,16 +1,9 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "minecraft:block/leaves",
-                              "textures":  {
-                                               "all":  "thaumcraft:blocks/leaves_silverwood"
-                                           },
-                              "true":  {
-
-                                       },
-                              "false":  {
-
-                                        }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/leaves_silverwood",
+            "true": {},
+            "false": {}
+        }
+    }
 }

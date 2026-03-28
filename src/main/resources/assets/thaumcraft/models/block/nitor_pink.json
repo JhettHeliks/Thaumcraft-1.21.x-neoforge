@@ -1,0 +1,7 @@
+{
+    "parent": "thaumcraft:block/empty",
+    "textures": {
+        "particle": "thaumcraft:block/nitor",
+        "all": "thaumcraft:block/nitor"
+    }
+}

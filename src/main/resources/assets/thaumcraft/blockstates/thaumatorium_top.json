@@ -1,53 +1,25 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "thaumcraft:block/bellows",
-                              "textures":  {
-                                               "particle":  "thaumcraft:blocks/bellows",
-                                               "side":  "thaumcraft:blocks/bellows"
-                                           }
-                          },
-                     "facing=up":  {
-                                       "model":  "thaumcraft:block/bellows",
-                                       "textures":  {
-                                                        "particle":  "thaumcraft:blocks/bellows",
-                                                        "side":  "thaumcraft:blocks/bellows"
-                                                    }
-                                   },
-                     "facing=down":  {
-                                         "model":  "thaumcraft:block/bellows",
-                                         "textures":  {
-                                                          "particle":  "thaumcraft:blocks/bellows",
-                                                          "side":  "thaumcraft:blocks/bellows"
-                                                      }
-                                     },
-                     "facing=west":  {
-                                         "model":  "thaumcraft:block/bellows",
-                                         "textures":  {
-                                                          "particle":  "thaumcraft:blocks/bellows",
-                                                          "side":  "thaumcraft:blocks/bellows"
-                                                      }
-                                     },
-                     "facing=south":  {
-                                          "model":  "thaumcraft:block/bellows",
-                                          "textures":  {
-                                                           "particle":  "thaumcraft:blocks/bellows",
-                                                           "side":  "thaumcraft:blocks/bellows"
-                                                       }
-                                      },
-                     "facing=north":  {
-                                          "model":  "thaumcraft:block/bellows",
-                                          "textures":  {
-                                                           "particle":  "thaumcraft:blocks/bellows",
-                                                           "side":  "thaumcraft:blocks/bellows"
-                                                       }
-                                      },
-                     "facing=east":  {
-                                         "model":  "thaumcraft:block/bellows",
-                                         "textures":  {
-                                                          "particle":  "thaumcraft:blocks/bellows",
-                                                          "side":  "thaumcraft:blocks/bellows"
-                                                      }
-                                     }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/thaumatorium_top"
+        },
+        "facing=up": {
+            "model": "thaumcraft:block/thaumatorium_top_facing_up"
+        },
+        "facing=down": {
+            "model": "thaumcraft:block/thaumatorium_top_facing_down"
+        },
+        "facing=west": {
+            "model": "thaumcraft:block/thaumatorium_top_facing_west"
+        },
+        "facing=south": {
+            "model": "thaumcraft:block/thaumatorium_top_facing_south"
+        },
+        "facing=north": {
+            "model": "thaumcraft:block/thaumatorium_top_facing_north"
+        },
+        "facing=east": {
+            "model": "thaumcraft:block/thaumatorium_top_facing_east"
+        }
+    }
 }

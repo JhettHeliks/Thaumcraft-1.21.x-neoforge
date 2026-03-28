@@ -1,27 +1,21 @@
 {
-    "variants":  {
-                     "":  {
-                              "IsReadOnly":  false,
-                              "IsFixedSize":  false,
-                              "IsSynchronized":  false,
-                              "Keys":  [
-
-                                       ],
-                              "Values":  [
-
-                                         ],
-                              "SyncRoot":  {
-
-                                           },
-                              "Count":  0,
-                              "default":  {
-                                              "textures":  {
-                                                               "particle":  "thaumcraft:blocks/arcane_brick_stone",
-                                                               "bottom":  "thaumcraft:blocks/arcane_brick_stone",
-                                                               "top":  "thaumcraft:blocks/arcane_brick_stone",
-                                                               "side":  "thaumcraft:blocks/arcane_brick_stone"
-                                                           }
-                                          }
-                          }
-                 }
+    "variants": {
+        "": {
+            "IsReadOnly": false,
+            "IsFixedSize": false,
+            "IsSynchronized": false,
+            "Keys": [],
+            "Values": [],
+            "SyncRoot": {},
+            "Count": 0,
+            "default": {
+                "textures": {
+                    "particle": "thaumcraft:block/arcane_brick_stone",
+                    "bottom": "thaumcraft:block/arcane_brick_stone",
+                    "top": "thaumcraft:block/arcane_brick_stone",
+                    "side": "thaumcraft:block/arcane_brick_stone"
+                }
+            }
+        }
+    }
 }

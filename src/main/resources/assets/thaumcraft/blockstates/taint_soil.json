@@ -1,94 +1,58 @@
 {
-    "variants":  {
-                     "":  [
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_0"
-                                               },
-                                  "weight":  16
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_0"
-                                               },
-                                  "weight":  16,
-                                  "x":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_0"
-                                               },
-                                  "weight":  16,
-                                  "y":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_0"
-                                               },
-                                  "weight":  16,
-                                  "x":  90,
-                                  "y":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_1"
-                                               }
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_1"
-                                               },
-                                  "x":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_1"
-                                               },
-                                  "y":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_1"
-                                               },
-                                  "x":  90,
-                                  "y":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_2"
-                                               }
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_2"
-                                               },
-                                  "x":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_2"
-                                               },
-                                  "y":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_soil_2"
-                                               },
-                                  "x":  90,
-                                  "y":  90
-                              }
-                          ]
-                 }
+    "variants": {
+        "": [
+            {
+                "model": "thaumcraft:block/taint_soil_0",
+                "weight": 16
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_1",
+                "weight": 16,
+                "x": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_2",
+                "weight": 16,
+                "y": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_3",
+                "weight": 16,
+                "x": 90,
+                "y": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_4"
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_5",
+                "x": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_6",
+                "y": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_7",
+                "x": 90,
+                "y": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_8"
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_9",
+                "x": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_10",
+                "y": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_soil_11",
+                "x": 90,
+                "y": 90
+            }
+        ]
+    }
 }

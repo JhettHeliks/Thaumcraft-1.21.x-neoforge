@@ -1,10 +1,7 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "minecraft:block/cross",
-                              "textures":  {
-                                               "cross":  "thaumcraft:blocks/shimmerleaf"
-                                           }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/shimmerleaf"
+        }
+    }
 }

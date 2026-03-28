@@ -1,0 +1,7 @@
+{
+    "parent": "forge:block/item-layer",
+    "textures": {
+        "layer0": "thaumcraft:item/celestial/sheet",
+        "layer1": "thaumcraft:item/celestial/moon8"
+    }
+}

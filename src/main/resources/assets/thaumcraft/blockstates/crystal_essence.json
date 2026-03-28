@@ -1,23 +1,14 @@
 {
-    "variants":  {
-                     "":  {
-                              "IsReadOnly":  false,
-                              "IsFixedSize":  false,
-                              "IsSynchronized":  false,
-                              "Keys":  [
-
-                                       ],
-                              "Values":  [
-
-                                         ],
-                              "SyncRoot":  {
-
-                                           },
-                              "Count":  0,
-                              "model":  "forge:block/item-layer",
-                              "textures":  {
-                                               "layer0":  "thaumcraft:items/crystal_essence"
-                                           }
-                          }
-                 }
+    "variants": {
+        "": {
+            "IsReadOnly": false,
+            "IsFixedSize": false,
+            "IsSynchronized": false,
+            "Keys": [],
+            "Values": [],
+            "SyncRoot": {},
+            "Count": 0,
+            "model": "thaumcraft:block/crystal_essence"
+        }
+    }
 }

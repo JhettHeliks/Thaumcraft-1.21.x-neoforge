@@ -1,0 +1,6 @@
+{
+    "parent": "thaumcraft:block/thaumatorium.obj",
+    "textures": {
+        "#texture": "thaumcraft:block/thaumatorium"
+    }
+}

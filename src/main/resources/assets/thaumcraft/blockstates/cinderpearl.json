@@ -1,10 +1,7 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "minecraft:block/cross",
-                              "textures":  {
-                                               "cross":  "thaumcraft:blocks/cinderpearl"
-                                           }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/cinderpearl"
+        }
+    }
 }

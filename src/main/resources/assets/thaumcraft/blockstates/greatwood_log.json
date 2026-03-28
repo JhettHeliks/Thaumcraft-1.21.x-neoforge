@@ -1,21 +1,15 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "minecraft:block/cube_column",
-                              "textures":  {
-                                               "end":  "thaumcraft:blocks/log_greatwood_top",
-                                               "side":  "thaumcraft:blocks/log_greatwood"
-                                           },
-                              "x":  {
-                                        "x":  90,
-                                        "y":  90
-                                    },
-                              "y":  {
-
-                                    },
-                              "z":  {
-                                        "x":  90
-                                    }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/greatwood_log",
+            "x": {
+                "x": 90,
+                "y": 90
+            },
+            "y": {},
+            "z": {
+                "x": 90
+            }
+        }
+    }
 }

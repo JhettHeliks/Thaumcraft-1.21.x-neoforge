@@ -1,22 +1,11 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "builtin/generated",
-                              "textures":  {
-                                               "all":  "thaumcraft:blocks/empty"
-                                           },
-                              "1":  {
-
-                                    },
-                              "2":  {
-
-                                    },
-                              "3":  {
-
-                                    },
-                              "4":  {
-
-                                    }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/crystal_terra",
+            "1": {},
+            "2": {},
+            "3": {},
+            "4": {}
+        }
+    }
 }

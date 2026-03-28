@@ -1,34 +1,22 @@
 {
-    "variants":  {
-                     "":  [
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_rock"
-                                               }
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_rock"
-                                               },
-                                  "x":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_rock"
-                                               },
-                                  "y":  90
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/taint_rock"
-                                               },
-                                  "x":  90,
-                                  "y":  90
-                              }
-                          ]
-                 }
+    "variants": {
+        "": [
+            {
+                "model": "thaumcraft:block/taint_rock_0"
+            },
+            {
+                "model": "thaumcraft:block/taint_rock_1",
+                "x": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_rock_2",
+                "y": 90
+            },
+            {
+                "model": "thaumcraft:block/taint_rock_3",
+                "x": 90,
+                "y": 90
+            }
+        ]
+    }
 }

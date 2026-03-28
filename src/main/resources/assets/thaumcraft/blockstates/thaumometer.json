@@ -1,14 +1,10 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "thaumcraft:block/scanner.obj",
-                              "textures":  {
-                                               "#body":  "thaumcraft:items/scanner",
-                                               "#pane":  "thaumcraft:items/scanscreen"
-                                           },
-                              "custom":  {
-                                             "flip-v":  true
-                                         }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/thaumometer",
+            "custom": {
+                "flip-v": true
+            }
+        }
+    }
 }

@@ -1,10 +1,7 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "minecraft:block/cube_all",
-                              "textures":  {
-                                               "all":  "thaumcraft:blocks/plank_silverwood"
-                                           }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/silverwood_planks"
+        }
+    }
 }

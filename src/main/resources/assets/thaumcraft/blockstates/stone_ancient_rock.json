@@ -1,24 +1,15 @@
 {
-    "variants":  {
-                     "":  [
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/ancient_rock_stone_1"
-                                               }
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/ancient_rock_stone_2"
-                                               }
-                              },
-                              {
-                                  "model":  "minecraft:block/cube_all",
-                                  "textures":  {
-                                                   "all":  "thaumcraft:blocks/ancient_rock_stone_3"
-                                               }
-                              }
-                          ]
-                 }
+    "variants": {
+        "": [
+            {
+                "model": "thaumcraft:block/stone_ancient_rock_0"
+            },
+            {
+                "model": "thaumcraft:block/stone_ancient_rock_1"
+            },
+            {
+                "model": "thaumcraft:block/stone_ancient_rock_2"
+            }
+        ]
+    }
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "thaumcraft:block/condenser",
+    "textures": {
+        "side": "thaumcraft:block/condenser_off"
+    }
+}

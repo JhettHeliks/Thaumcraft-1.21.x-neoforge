@@ -1,12 +1,7 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "minecraft:block/cube_bottom_top",
-                              "textures":  {
-                                               "bottom":  "thaumcraft:blocks/amber_top",
-                                               "top":  "thaumcraft:blocks/amber_top",
-                                               "side":  "thaumcraft:blocks/amber_side"
-                                           }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/amber_block"
+        }
+    }
 }

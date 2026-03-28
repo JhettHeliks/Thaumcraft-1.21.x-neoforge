@@ -1,27 +1,21 @@
 {
-    "variants":  {
-                     "":  {
-                              "IsReadOnly":  false,
-                              "IsFixedSize":  false,
-                              "IsSynchronized":  false,
-                              "Keys":  [
-
-                                       ],
-                              "Values":  [
-
-                                         ],
-                              "SyncRoot":  {
-
-                                           },
-                              "Count":  0,
-                              "default":  {
-                                              "textures":  {
-                                                               "particle":  "thaumcraft:blocks/ancient_stone_1",
-                                                               "bottom":  "thaumcraft:blocks/ancient_stone_1",
-                                                               "top":  "thaumcraft:blocks/ancient_stone_2",
-                                                               "side":  "thaumcraft:blocks/ancient_stone_3"
-                                                           }
-                                          }
-                          }
-                 }
+    "variants": {
+        "": {
+            "IsReadOnly": false,
+            "IsFixedSize": false,
+            "IsSynchronized": false,
+            "Keys": [],
+            "Values": [],
+            "SyncRoot": {},
+            "Count": 0,
+            "default": {
+                "textures": {
+                    "particle": "thaumcraft:block/ancient_stone_1",
+                    "bottom": "thaumcraft:block/ancient_stone_1",
+                    "top": "thaumcraft:block/ancient_stone_2",
+                    "side": "thaumcraft:block/ancient_stone_3"
+                }
+            }
+        }
+    }
 }

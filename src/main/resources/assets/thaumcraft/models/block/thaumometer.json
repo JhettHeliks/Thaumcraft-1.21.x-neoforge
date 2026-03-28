@@ -1,0 +1,7 @@
+{
+    "parent": "thaumcraft:block/scanner.obj",
+    "textures": {
+        "#body": "thaumcraft:item/scanner",
+        "#pane": "thaumcraft:item/scanscreen"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "thaumcraft:block/golembuilder.obj",
+    "textures": {
+        "#texture": "thaumcraft:block/golembuilder"
+    }
+}

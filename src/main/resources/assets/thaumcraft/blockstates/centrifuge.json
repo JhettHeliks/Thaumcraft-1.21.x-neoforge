@@ -1,11 +1,7 @@
 {
-    "variants":  {
-                     "":  {
-                              "model":  "thaumcraft:block/centrifuge",
-                              "textures":  {
-                                               "particle":  "thaumcraft:blocks/centrifuge",
-                                               "side":  "thaumcraft:blocks/centrifuge"
-                                           }
-                          }
-                 }
+    "variants": {
+        "": {
+            "model": "thaumcraft:block/centrifuge"
+        }
+    }
 }
